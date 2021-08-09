@@ -1,0 +1,8 @@
+Resource/Imagens/Cartas/Div/div.png
+Resource/Imagens/Cartas/Div/div.png
+Resource/Imagens/Cartas/Div/div1.png
+Resource/Imagens/Cartas/Div/div1.png
+Resource/Imagens/Cartas/Div/div2.png
+Resource/Imagens/Cartas/Div/div2.png
+Resource/Imagens/Cartas/Div/div3.png
+Resource/Imagens/Cartas/Div/div3.png

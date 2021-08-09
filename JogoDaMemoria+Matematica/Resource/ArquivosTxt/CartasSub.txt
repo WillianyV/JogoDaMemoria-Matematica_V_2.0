@@ -1,0 +1,8 @@
+Resource/Imagens/Cartas/Sub/sub.png
+Resource/Imagens/Cartas/Sub/sub.png
+Resource/Imagens/Cartas/Sub/sub1.png
+Resource/Imagens/Cartas/Sub/sub1.png
+Resource/Imagens/Cartas/Sub/sub2.png
+Resource/Imagens/Cartas/Sub/sub2.png
+Resource/Imagens/Cartas/Sub/sub3.png
+Resource/Imagens/Cartas/Sub/sub3.png

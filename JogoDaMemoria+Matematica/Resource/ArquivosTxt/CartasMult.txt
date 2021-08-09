@@ -1,0 +1,8 @@
+Resource/Imagens/Cartas/Mult/mult.png
+Resource/Imagens/Cartas/Mult/mult.png
+Resource/Imagens/Cartas/Mult/mult1.png
+Resource/Imagens/Cartas/Mult/mult1.png
+Resource/Imagens/Cartas/Mult/mult2.png
+Resource/Imagens/Cartas/Mult/mult2.png
+Resource/Imagens/Cartas/Mult/mult3.png
+Resource/Imagens/Cartas/Mult/mult3.png

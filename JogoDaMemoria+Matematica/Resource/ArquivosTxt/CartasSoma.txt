@@ -1,0 +1,8 @@
+Resource/Imagens/Cartas/Soma/soma.png
+Resource/Imagens/Cartas/Soma/soma.png
+Resource/Imagens/Cartas/Soma/soma1.png
+Resource/Imagens/Cartas/Soma/soma1.png
+Resource/Imagens/Cartas/Soma/soma2.png
+Resource/Imagens/Cartas/Soma/soma2.png
+Resource/Imagens/Cartas/Soma/soma3.png
+Resource/Imagens/Cartas/Soma/soma3.png
